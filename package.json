@@ -1,0 +1,25 @@
+{
+  "name": "nook",
+  "version": "1.0.0",
+  "description": "In this chapter, we will refactor the toast code, adding new data in Mongo to explore more ways to query important results through search bar. Secondly, we also filled the empty report page as the total counts of the owner and status type. Furthermore, the delete API was built in order to facilitate deleting and undoing the issue from the application itself.",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ccs.neu.edu/NEU-CS5610-SU21/JanviDankhara-Book.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
